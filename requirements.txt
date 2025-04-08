@@ -1,0 +1,4 @@
+lxml==5.3.0
+osmnx~=2.0.0
+networkx~=3.4.2
+matplotlib~=3.9.0
