@@ -2,6 +2,8 @@
 
 This project demonstrates the use of different pathfinding algorithms (Dijkstra, Bellman-Ford) on a graph parsed from an XML file containing nodes and arcs. The graph is visualized using `matplotlib` and allows users to interactively select start and end nodes, and then visualize the shortest path calculated by Dijkstra or Bellman-Ford algorithms.
 
+![Map Image](Shortest-Path-Algorithms/images/graph.png)
+
 ## Features
 
 - **Node Parsing**: Extracts node information (ID, longitude, latitude) from an XML file.
